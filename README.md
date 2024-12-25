@@ -9,3 +9,5 @@ In the problem, the first inequality to be proven is related to the physical con
 Problem 2 explores the nonlinear equations related to the preservation of physical constraints in the numerical solutions of the RHD equations, involving the relationship between the conserved quantities and state variables in the RHD equations. 
 Problem 3 requires conjecturing and proving whether the given equation holds. This is related to the conservation properties of the RHD equations and the equation of state, as well as the relationships between density, energy, and pressure. 
 Problem 4 requires proving that for the given dependent variables, there exists a unique set of independent variables that satisfy the given relationship. This is related to the existence and uniqueness of solutions to the RHD equations, involving the mathematical structure and properties of the solutions to the RHD equations.
+
+The matlab code is my process to attempt to prove the above properties.

@@ -5,7 +5,7 @@ This minor project was initiated by Professor Wu following his seminar on the nu
 
 Professor Wu has developed a high-order accurate, Physics-Constrained Preserving (PCP) central discontinuous Galerkin (DG) method for solving one-dimensional and two-dimensional special relativistic hydrodynamics equations with a general equation of state (EOS). 
 
-In the problem, we mainly focus on admissible state set of the RHD equation. And these questions are actually some properties of the set given above. We are required to utilize computer to observe and check. 
+For the first pdf document, we mainly focus on admissible state set of the RHD equation by these problems. And these questions are actually some properties of the set given above. We are required to utilize computer to observe and check. 
 Further offer the rigorous proof. The first inequality to be proven is related to the physical constraints of the RHD equations. This underscores the importance of maintaining positive values for density, pressure, and specific internal energy. 
 Problem 2 explores the nonlinear equations related to the preservation of physical constraints in the numerical solutions of the RHD equations, involving the relationship between the conserved quantities and state variables in the RHD equations. 
 Problem 3 requires conjecturing and proving whether the given equation holds. This is related to the conservation properties of the RHD equations and the equation of state, as well as the relationships between density, energy, and pressure. 

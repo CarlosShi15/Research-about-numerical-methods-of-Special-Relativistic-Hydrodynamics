@@ -1,7 +1,7 @@
 # Research-about-numerical-methods-of-Special-Relativistic-Hydrodynamics
 Scientific Research with prof Kailiang Wu
 
-This minor project was initiated by Professor Wu following his seminar on the numerical simulation aspects of special relativistic hydrodynamics (RHD). He extracted a segment from his previous research for us to validate, thereby deepening our understanding of the subject matter. This opportunity also allowed us to conduct an in-depth exploration of related issues.
+The research was initiated by Professor Wu following his seminar on the numerical simulation aspects of special relativistic hydrodynamics (RHD). He extracted a part from his previous research for us to validate, thereby deepening our understanding of the subject matter. This opportunity also allowed us to conduct an in-depth exploration of related issues.
 
 Professor Wu has developed a high-order accurate, Physics-Constrained Preserving (PCP) central discontinuous Galerkin (DG) method for solving one-dimensional and two-dimensional special relativistic hydrodynamics equations with a general equation of state (EOS). 
 
